@@ -1,2 +1,2 @@
 new test file for testing
-Added new line from github.com
+Added new line from github.com.
